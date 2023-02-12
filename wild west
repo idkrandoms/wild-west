@@ -18,7 +18,7 @@ notifications:notify{
 }
 
 wait(7.4)
-setclipboard("https://discord.gg/NRARTKHRWr")
+setclipboard("https://discord.gg/Sz7SGNv7dA")
 notifications:message{
     Title = "Script: <font color='rgb(162, 24, 84)'>Enabled</font>",
     Description = "Discord Copied To Clipboard <b>:)</b>",
